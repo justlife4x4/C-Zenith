@@ -1,0 +1,27 @@
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.o
+*.a
+*.so
+*.dylib
+
+# Directories
+build/
+bin/
+obj/
+ipch/
+.vs/
+.vscode/
+
+# Logs & temp
+*.log
+*.tmp
+pwn_setx.txt
+auto_test.bat
+web_test.exe
+auto_test.exe
